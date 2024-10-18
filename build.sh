@@ -82,6 +82,9 @@ case "${lang}" in
     "janet-simple")
         org="sogaiu"
         ;;
+    "jq")
+        org="nverno"
+        ;;
     "kotlin")
         org="fwcd"
         ;;
@@ -96,7 +99,20 @@ case "${lang}" in
         ;;
     "markdown")
         org="tree-sitter-grammars"
+        branch="split_parser"
         sourcedir="tree-sitter-markdown/src"
+        ;;
+    "markdown-inline")
+        org="tree-sitter-grammars"
+        repo="tree-sitter-markdown"
+        branch="split_parser"
+        sourcedir="tree-sitter-markdown-inline/src"
+        ;;
+    "mermaid")
+        org="monaqa"
+        ;;
+    "moonbit")
+        org="moonbitlang"
         ;;
     "nix")
         org="nix-community"
