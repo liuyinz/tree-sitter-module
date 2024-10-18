@@ -49,7 +49,7 @@ case "${lang}" in
         org="uyha"
         ;;
     "dart")
-        org="ast-grep"
+        org="UserNobody14"
         ;;
     "dockerfile")
         org="camdencheek"
