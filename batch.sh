@@ -7,6 +7,7 @@ set -e
 # and readability.
 languages=(
     'ada'
+    'astro'
     'bash'
     'bison'
     'c'

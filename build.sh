@@ -32,6 +32,9 @@ case "${lang}" in
     "ada")
         org="briot"
         ;;
+    "astro")
+        org="virchau13"
+        ;;
     "bison")
         site="https://gitlab.com"
         org="btuin2"
