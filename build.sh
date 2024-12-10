@@ -51,6 +51,10 @@ case "${lang}" in
     "cmake")
         org="uyha"
         ;;
+    "d2")
+        site="https://codeberg.org"
+        org="p8i"
+        ;;
     "dart")
         org="UserNobody14"
         ;;
